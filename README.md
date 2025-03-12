@@ -1,4 +1,4 @@
-<h1 align="center"> <span style="color:lightgreen;">WELCOME</span>, I'M MIRANDA NIGEL <br>✨SOFTWARE ENGINEER</h1>
+<h1 align="center" style="color:lightgreen"> <span style="color:lightgreen;">WELCOME</span>, I'M MIRANDA NIGEL <br>✨SOFTWARE ENGINEER</h1>
 
 ###
 

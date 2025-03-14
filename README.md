@@ -1,4 +1,4 @@
-<h1 align="center" style="color:lightgreen"> <span style="color:lightgreen;">WELCOME</span>, I'M MIRANDA NIGEL <br>✨SOFTWARE ENGINEER</h1>
+<h1 align="center">WELCOME, I'M MIRANDA NIGEL <br>SOFWARE ENGINEER</h1>
 
 ###
 
@@ -52,10 +52,12 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/MdCwwLF6g7cAAAAd/rage-anime.gif"  />
+  <img height="250" src="https://media1.tenor.com/m/MdCwwLF6g7cAAAAd/rage-anime.gif"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/shinobi6800/shinobi6800/output/snake.svg" alt="Snake animation" />
 
@@ -64,7 +66,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/2c7diqh1oVIAAAAd/anime-computer.gif"  />
+  <img height="299" src="https://media1.tenor.com/m/2c7diqh1oVIAAAAd/anime-computer.gif"  />
 </div>
 
 ###

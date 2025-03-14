@@ -1,4 +1,4 @@
-<h1 align="center">WELCOME, I'M MIRANDA NIGEL <br>SOFWARE ENGINEER</h1>
+<h3 align="center">WELCOME, I'M MIRANDA NIGEL <br>SOFWARE ENGINEER</h3>
 
 ###
 
